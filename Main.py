@@ -94,7 +94,6 @@ class Enemigos(pg.sprite.Sprite):
             grupo_balas_enemigos.add(bala)
             pg.mixer.Sound(RUTA_LASER_SONIDO).play()
             Enemigos.ultimo_disparo_enemigo = ahora
-            pg.mixer.Sound(RUTA_COMANDANTE_ORDEN).play()
 
 class Jefe(pg.sprite.Sprite):
     def __init__(self):
