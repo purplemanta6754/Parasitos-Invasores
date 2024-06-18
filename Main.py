@@ -22,7 +22,6 @@ RUTA_ENEMIGO_LASER = "assets/images/enemies/parasite_laserbeam.png"
 RUTA_JEFE_IMAGEN = "assets/images/enemies/boss.png"
 
 # Rutas de los sonidos
-RUTA_COMANDANTE_ORDEN = "assets/sounds/commander's_order.ogg"
 RUTA_LASER_SONIDO = "assets/sounds/laser.ogg"
 RUTA_EXPLOSION_SONIDO = "assets/sounds/explosion.ogg"
 RUTA_GOLPE_SONIDO = "assets/sounds/hit.ogg"

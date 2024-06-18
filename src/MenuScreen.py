@@ -1,5 +1,7 @@
 import pygame as pg
 
+RUTA_COMANDANTE_ORDEN = "assets/sounds/commander's_order.ogg"
+
 def ejecutar_menu():
     pg.font.init()
     negro = (0, 0, 0)
@@ -23,6 +25,7 @@ def ejecutar_menu():
                 exit()
             elif event.type == pg.KEYDOWN:
                 if event.key == pg.K_SPACE:
+                    pg.mixer.Sound(RUTA_COMANDANTE_ORDEN).play()
                     running = False
         
         ventana.fill(negro)
