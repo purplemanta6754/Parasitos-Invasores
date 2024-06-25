@@ -1,8 +1,8 @@
-![Imagen](assets/images/logo.png)
+![Parásitos Invasores](assets/images/logo.png)
 
-# Parásitos Invasores: Un Juego de Disparos Espaciales
+# Parásitos Invasores: Un Videojuego de Disparos Espaciales
 
-Bienvenido a Parásitos Invasores, un emocionante juego de disparos espaciales desarrollado con Pygame. En este juego, tú eres el comandante de una nave espacial que debe defenderse contra una invasión de parásitos alienígenas.
+Un emocionante juego de disparos espaciales desarrollado con Pygame. En este juego, tú eres el piloto de una nave espacial que debe defender nuestro planeta contra una invasión de parásitos alienígenas.
 
 ## Objetivo
 
